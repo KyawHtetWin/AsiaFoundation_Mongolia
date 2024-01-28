@@ -3,7 +3,9 @@
 This repository highlights some of my contributions to this open-source project to address environmental concerns in Mongolia utilizing modern natural language processing capabilities 
 
 Project Links:
+
 [Omdena Project Link](https://www.omdena.com/projects/leveraging-natural-language-processing-for-mongolia-landscape)
+
 [DagsHub](https://dagshub.com/Omdena/AsiaFoundationMongolia/src/main)
 
 # Project Overview
