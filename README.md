@@ -16,4 +16,5 @@ My main contribution to this project includes:
 3. Translating tweets into English with Google Translate API and adding other useful information for downstream analysis with GPT.
 4. Performing an analysis of the tweets using the GPT and presenting key insights to the team.
 
-Read my report [online](https://second-apparel-c2b.notion.site/Environmental-Concerns-in-Mongolia-A-Brief-Synthesis-of-Public-Opinion-Online-214bf4228fd94456b2b9760805284ba3)
+Read my report online: [Environmental Report](https://second-apparel-c2b.notion.site/Environmental-Concerns-in-Mongolia-A-Brief-Synthesis-of-Public-Opinion-Online-214bf4228fd94456b2b9760805284ba3)
+Document for project goal definition: [Survey and Project Goal](https://second-apparel-c2b.notion.site/dff3a96efd884712b62ba0357b337bdf?v=778f40945de447fabc7901f6715b5ca8)
