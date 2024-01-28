@@ -19,3 +19,5 @@ My main contribution to this project includes:
 Read my report online: [Environmental Report](https://second-apparel-c2b.notion.site/Environmental-Concerns-in-Mongolia-A-Brief-Synthesis-of-Public-Opinion-Online-214bf4228fd94456b2b9760805284ba3)
 
 Document for project goal definition: [Survey and Project Goal](https://second-apparel-c2b.notion.site/dff3a96efd884712b62ba0357b337bdf?v=778f40945de447fabc7901f6715b5ca8)
+
+Dashboard on tweets: [Power BI Dashboard](https://www.novypro.com/project/public-opinion-on-environment-in-mongolia)
