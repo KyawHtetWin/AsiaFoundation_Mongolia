@@ -12,7 +12,7 @@ Through our work, we strive to highlight the critical health consequences of air
 
 My main contribution to this project includes:
 1. Researching and defining the project goal for this 8-week project.
-2. Contributing a dataset with over 2800 tweets in Mongolian language from web scraping.
+2. Contributing a dataset with over 2800 tweets in Mongolian language relevant to environmental issues from web scraping X.
 3. Translating tweets into English with Google Translate API and adding other useful information for downstream analysis with GPT.
 4. Performing an analysis of the tweets using the GPT and presenting key insights to the team.
 
